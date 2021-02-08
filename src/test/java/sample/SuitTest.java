@@ -17,3 +17,4 @@ import sample.junit.HelloWord;
 })
 public class SuitTest {
 }
+System.out.println("----- Paul was here -------------");
