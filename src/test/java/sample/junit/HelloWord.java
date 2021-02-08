@@ -9,7 +9,7 @@ import sample.utils.DateUtils;
  */
 
 
-/** Paul Bratlien update line **/
+
 
 public class HelloWord {
 
@@ -44,6 +44,10 @@ public class HelloWord {
     @Test
     public void testTimeOut() {
         System.out.println("----- START OF Verify function testTimeOut in HelloWord class -------------");
+        /** Paul Bratlien update line **/
+        System.out.println("----- Paul Bratlien Update Line -------------");
+        
+        /** Paul Bratlien update line **/
         try{
             System.out.println("Waiting ===============================");
             Thread.sleep(10000);
