@@ -7,6 +7,10 @@ import sample.utils.DateUtils;
 /**
  * Created by duongnapham on 8/26/15.
  */
+
+
+/** Paul Bratlien update line **/
+
 public class HelloWord {
 
     private static DateUtils dateUtils;
