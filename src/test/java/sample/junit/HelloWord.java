@@ -34,8 +34,8 @@ public class HelloWord {
 
     @Test
     public void sayHello() {
-       /* System.out.println("----- START OF Verify function sayHello in HelloWord class -------------");
-        */String str = "Hello";
+        System.out.println("----- START OF Verify function sayHello in HelloWord class -------------");
+        String str = "Hello";
         Assert.assertEquals(str, "Hello");
         System.out.println("Hello");
         System.out.println("----- END OF Verify function sayHello in HelloWord class -------------");
